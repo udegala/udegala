@@ -16,11 +16,11 @@ I'm a Front-end Web Developer 💻, Photographer 📸, and Designer 🎨! I am a
 </a>
 </br></br>
 
-- 🔭 I’m currently working on Vuejs & Vuetify 
+- 🔭 I’m currently working on HTML, CSS & Javascript 
 - 🌱 I’m currently learning Node.js & Mongodb
 - 👯 I’m looking to collaborate on any Open Source Project involving javascript :heart:
 - 💬 Ask me about anything! I am happy to help and guide you. 
-  - 📫 How to reach me: <a href="https://t.me/Ramesh_RockStar" target="_blank" rel="noreferrer">Click here</a> 👋
+  - 📫 How to reach me: <a href="https://t.me/Udegala" target="_blank" rel="noreferrer">Click here</a> 👋
 - ⚡ Fun fact: There are more 700 coding langaues out there!
 
 ## 💼 Technical Skills
